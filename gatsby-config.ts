@@ -3,10 +3,10 @@ import type { GatsbyConfig } from "gatsby";
 const config: GatsbyConfig = {
   siteMetadata: {
     title: `Spring.NET`,
-    description: ``,
-    keywords: ``,
+    description: `Spring.NET is a port and extension of the Java based Spring Framework for .NET.`,
+    keywords: `.NET, C#, Framework, Application, Framework, web, Spring, open source`,
     image: ``,
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `http://www.springframework.org`,
   },
   plugins: [
     "gatsby-plugin-sass",

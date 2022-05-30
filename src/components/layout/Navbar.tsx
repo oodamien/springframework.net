@@ -44,32 +44,32 @@ const Navbar = (): JSX.Element => {
         >
           <div className="navbar-end has-text-centered">
             <div className="navbar-item has-dropdown is-hoverable">
-              <Link className="navbar-link" to="/learn">
+              <Link className="navbar-link" to="/overview">
                 Learn
               </Link>
               <div className="navbar-dropdown is-boxed">
-                <Link className="navbar-item" to="/learn">
+                <Link className="navbar-item" to="/overview">
                   Overview
                 </Link>
-                <Link className="navbar-item" to="/quickstart">
+                <Link className="navbar-item" to="/modules">
                   Modules
                 </Link>
-                <Link className="navbar-item" to="/guides">
+                <Link className="navbar-item" to="/roadmap">
                   Roadmap
                 </Link>
-                <Link className="navbar-item" to="/blog">
+                <Link className="navbar-item" to="/documentation">
                   Documentation
                 </Link>
-                <Link className="navbar-item" to="/blog">
+                <Link className="navbar-item" to="/examples">
                   Examples/Tutorials
                 </Link>
               </div>
             </div>
 
-            <Link className="navbar-item" to="/training">
+            <Link className="navbar-item" to="/download">
               Download
             </Link>
-            <Link className="navbar-item" to="/training">
+            <Link className="navbar-item" to="/news">
               News
             </Link>
 
@@ -80,25 +80,43 @@ const Navbar = (): JSX.Element => {
               Support
             </Link> */}
             <div className="navbar-item has-dropdown is-hoverable">
-              <Link className="navbar-link" to="/community">
-                Community
-              </Link>
+              <span className="navbar-link">Community</span>
               <div className="navbar-dropdown is-boxed is-right">
-                <Link className="navbar-item" to="/community">
+                <a
+                  className="navbar-item"
+                  target={`_blank`}
+                  href="http://forum.springframework.net/"
+                >
                   Forum
-                </Link>
-                <Link className="navbar-item" to="/events">
+                </a>
+                <a
+                  className="navbar-item"
+                  target={`_blank`}
+                  href="https://jira.springframework.org/secure/BrowseProject.jspa?id=10020"
+                >
                   JIRA Issue Tracking
-                </Link>
-                <Link className="navbar-item" to="/team">
+                </a>
+                <a
+                  className="navbar-item"
+                  target={`_blank`}
+                  href="https://fisheye.springframework.org/browse/spring-net"
+                >
                   FishEye Repository Browser
-                </Link>
-                <Link className="navbar-item" to="/team">
+                </a>
+                <a
+                  className="navbar-item"
+                  target={`_blank`}
+                  href="http://build.springframework.org/browse/SPRNET"
+                >
                   Continuous Integration
-                </Link>
-                <Link className="navbar-item" to="/team">
+                </a>
+                <a
+                  className="navbar-item"
+                  target={`_blank`}
+                  href="https://github.com/springsource/spring-net/"
+                >
                   Source Repository (GitHub)
-                </Link>
+                </a>
               </div>
             </div>
           </div>
