@@ -111,24 +111,13 @@ body,
 
 // Default Banner
 .default-banner {
-  overflow: hidden;
   .extra {
-    position: relative;
-    .extra-1 {
-      position: absolute;
-      background-color: #6db33f;
-      border-radius: 50%;
-      height: 345px;
-      width: 345px;
-      right: -100px;
-      top: 40px;
-    }
-    .extra-2 {
-      position: absolute;
-      top: 20px;
-      right: 120px;
-      height: 100px;
-      width: 100px;
+    background: linear-gradient(90deg, #d7e7e7 50%, #80ea6e 0);
+    height: 40px;
+    overflow: hidden;
+    text-align: center;
+    img {
+      height: 40px;
     }
   }
 }

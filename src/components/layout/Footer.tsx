@@ -2,11 +2,9 @@ import { Link } from "gatsby";
 import * as React from "react";
 import logo from "../../images/logo.svg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faGithub,
-  faTwitter,
-  faYoutube,
-} from "@fortawesome/free-brands-svg-icons";
+import { faJira, faGithub } from "@fortawesome/free-brands-svg-icons";
+
+import { faMessage } from "@fortawesome/free-solid-svg-icons";
 
 const Footer = () => {
   return (
@@ -124,22 +122,22 @@ const Footer = () => {
                 </div>
                 <div className="social-links column is-3">
                   <a
-                    href="https://www.youtube.com/user/SpringSourceDev"
+                    href="http://forum.springframework.net/"
                     className="button is-black is-rounded"
                   >
-                    <FontAwesomeIcon icon={faYoutube} />
+                    <FontAwesomeIcon icon={faMessage} />
                   </a>
                   <a
-                    href="https://github.com/spring-projects"
+                    href="https://jira.springframework.org/secure/BrowseProject.jspa?id=10020"
+                    className="button is-black is-rounded"
+                  >
+                    <FontAwesomeIcon icon={faJira} />
+                  </a>
+                  <a
+                    href="https://github.com/springsource/spring-net/"
                     className="button is-black is-rounded"
                   >
                     <FontAwesomeIcon icon={faGithub} />
-                  </a>
-                  <a
-                    href="https://twitter.com/springcentral"
-                    className="button is-black is-rounded"
-                  >
-                    <FontAwesomeIcon icon={faTwitter} />
                   </a>
                 </div>
               </div>

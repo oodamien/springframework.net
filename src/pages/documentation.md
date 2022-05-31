@@ -16,17 +16,17 @@ keywords:
 
 # Documentation
 
-# Reference Manual and API
+## Reference Manual and API
 
 Note: To view HTML Help files on Windows you may need to 'unblock' the file. You can do this by pressing the 'unblock' button on the file properties dialog.
 
-##### Latest Documentation
+### Latest Documentation
 
 Reference ( [HTML](http://www.springframework.net/doc-latest/reference/html/index.html) / [PDF](http://www.springframework.net/doc-latest/reference/pdf/spring-net-reference.pdf) / [HTML Help](http://www.springframework.net/doc-latest/reference/htmlhelp/spring-net-reference.chm) )
 
-##### Release - 1.3.2
+### Release - 1.3.2
 
-##### (August 1st 2011)
+### (August 1st 2011)
 
 Reference ( [HTML](docs/1.3.2/reference/html/index.html) / [PDF](docs/1.3.2/reference/pdf/spring-net-reference.pdf) / [HTML Help](docs/1.3.2/reference/htmlhelp/spring-net-reference.chm) )
 
@@ -34,9 +34,9 @@ API ( [HTML](docs/1.3.2/api/net-2.0/html/webframe.html) / [HTML Help](http://dis
 
 [Change log](docs/1.3.2/changelog.txt), [Breaking Changes](docs/1.3.2/BreakingChanges.txt)
 
-##### Older Releases
+### Older Releases
 
-##### Release -1.3.1 
+### Release -1.3.1 
 
 ##### (December 10th 2010)
 
@@ -44,9 +44,9 @@ Reference ( [HTML](docs/1.3.1/reference/html/index.html)/ [PDF](docs/1.3.1/refer
 
 [Change log](docs/1.3.1/changelog.txt)
 
-##### Release - 1.3.0 
+### Release - 1.3.0 
 
-##### (December 17th 2009)
+### (December 17th 2009)
 
 Reference ( [HTML](docs/1.3.0/reference/html/index.html) / [PDF](docs/1.3.0/reference/pdf/spring-net-reference.pdf) / [HTML Help](docs/1.3.0/reference/htmlhelp/htmlhelp.chm) )
 
@@ -58,9 +58,9 @@ API - Online
 
 [Change log](docs/1.3.0/changelog.txt), [Breaking Changes](docs/1.3.0/BreakingChanges.txt)
 
-##### Release - 1.3.0 RC1 
+### Release - 1.3.0 RC1 
 
-##### (August 3rd 2009)
+### (August 3rd 2009)
 
 Reference ( [HTML](docs/1.3.0-RC1/reference/html/index.html) / [PDF](docs/1.3.0-RC1/reference/pdf/spring-net-reference.pdf) / [HTML Help](docs/1.3.0-RC1/reference/htmlhelp/htmlhelp.chm) )
 
@@ -72,9 +72,9 @@ API - Online
 
 [Change log](docs/1.3.0-RC1/changelog.txt), [Breaking Changes](docs/1.3.0-RC1/BreakingChanges.txt)
 
-##### Release - 1.2.0  
+### Release - 1.2.0  
 
-##### (November 10th 2008)
+### (November 10th 2008)
 
 Reference ( [HTML](docs/1.2.0/reference/html/index.html) / [PDF](docs/1.2.0/reference/pdf/spring-net-reference.pdf) / [HTML Help](docs/1.2.0/reference/htmlhelp/Spring.NET.chm) )
 
@@ -90,9 +90,9 @@ API - Online
 
 [Change log](docs/1.2.0/changelog.txt), [Breaking Changes](docs/1.2.0/BreakingChanges-1.2.txt)
 
-##### Release - 1.2.0 - RC1
+### Release - 1.2.0 - RC1
 
-#####  (October 16th 2008)
+###  (October 16th 2008)
 
 Reference ( [HTML](docs/1.2.0-RC1/reference/html/index.html) / [PDF](docs/1.2.0-RC1/reference/pdf/spring-net-reference.pdf) / [HTML Help](docs/1.2.0-RC1/reference/htmlhelp/Spring.NET.chm) )
 
@@ -101,9 +101,9 @@ API (VS.NET 2003 style) [HTML Help](http://dist.springframework.org/milestone/N
 
 [Change log](docs/1.2.0-RC1/changelog.txt), [Breaking Changes](docs/1.2.0-RC1/BreakingChanges-1.2.txt)
 
-##### Release - 1.2.0 - M1
+### Release - 1.2.0 - M1
 
-##### (August 15th 2008)
+### (August 15th 2008)
 
 Reference ( [HTML](docs/1.2.0-M1/reference/html/index.html) / [PDF](docs/1.2.0-M1/reference/pdf/spring-net-reference.pdf) / [HTML Help](docs/1.2.0-M1/reference/htmlhelp/Spring.NET.chm) )
 
@@ -112,9 +112,9 @@ API (VS.NET 2003 style) [HTML Help](https://dist.springframework.org/milestone/
 
 [Change log](docs/1.2.0-M1/changelog.txt), [Breaking Changes](docs/1.2.0-M1/BreakingChanges-1.2.txt)
 
-##### Release - 1.1.2 
+### Release - 1.1.2 
 
-##### (May 6th 2008)
+### (May 6th 2008)
 
 Reference ( [HTML](docs/1.1.2/reference/html/index.html) / [PDF](docs/1.1.2/reference/pdf/spring-net-reference.pdf) / [HTML Help](docs/1.1.2/reference/htmlhelp/Spring.NET.chm) )
 
@@ -126,7 +126,7 @@ API documentation in HTML Help format and for integration
 
 [Change log](docs/1.1.2/changelog.txt)
 
-##### Release - 1.1.1 - (April 7th 2008)
+### Release - 1.1.1 - (April 7th 2008)
 
 Reference ( [HTML](http://www.springframework.net/docs/1.1.1/reference/html/index.html) / [PDF](http://www.springframework.net/docs/1.1.1/reference/pdf/spring-net-reference.pdf) / [HTML Help](http://www.springframework.net/docs/1.1.1/reference/htmlhelp/Spring.NET.chm) )
 
@@ -138,7 +138,7 @@ API documentation in HTML Help format and for integration
 
 [Change log](http://www.springframework.net/docs/1.1.1/changelog.txt), [Breaking Changes](http://www.springframework.net/docs/1.1.1/BreakingChanges-1.1.txt)
 
-##### Release - 1.1 - (December 7th 2007)
+### Release - 1.1 - (December 7th 2007)
 
 Reference ( [HTML](docs/1.1/reference/html/index.html) / [PDF](docs/1.1/reference/pdf/spring-net-reference.pdf) / [HTML Help](docs/1.1/reference/htmlhelp/Spring.NET.chm) )
 
@@ -147,7 +147,7 @@ API (VS.NET 2003 style) [Web](docs/1.1/sdk/1.1/html/webframe.html) / [HTML Help]
 
 [Change log](docs/1.1/changelog.txt), [Breaking Changes](docs/1.1/BreakingChanges-1.1.txt)
 
-##### Release - 1.1 RC2 - (October 15th 2007)
+### Release - 1.1 RC2 - (October 15th 2007)
 
 Reference ( [HTML](docs/1.1-RC2/reference/html/index.html) / [PDF](docs/1.1-RC2/reference/pdf/spring-net-reference.pdf) / [HTML Help](docs/1.1-RC2/reference/htmlhelp/Spring.NET.chm) )
 
@@ -156,7 +156,7 @@ API (VS.NET 2003 style) [Web](docs/1.1-RC2/sdk/1.1/html/webframe.html) / [HTML H
 
 [Change log](docs/1.1-RC2/changelog.txt), [Breaking Changes](docs/1.1-RC2/BreakingChanges-1.1.txt)
 
-##### Release - 1.1 RC1 - (August 10th 2007)
+### Release - 1.1 RC1 - (August 10th 2007)
 
 Reference ( [HTML](docs/1.1-RC1/reference/html/index.html) / [PDF](docs/1.1-RC1/reference/pdf/spring-net-reference.pdf) / [HTML Help](docs/1.1-RC1/reference/htmlhelp/Spring.NET.chm) )
 
@@ -165,13 +165,13 @@ API (VS.NET 2005 style) [Web](docs/1.1-RC1/sdk/2.0/html/webframe.html) / [HTML H
 
 [Change log](docs/1.1-RC1/changelog.txt), [Breaking Changes](docs/1.1-RC1/BreakingChanges-1.1.txt)
 
-##### Release - 1.1 M2 - (July 11th 2007)
+### Release - 1.1 M2 - (July 11th 2007)
 
 Reference ( [HTML](doc-1.1-M2/reference/html/index.html) / [PDF](doc-1.1-M2/reference/pdf/spring-net-reference.pdf) / [HTML Help](doc-1.1-M2/reference/htmlhelp/Spring.NET.chm) )
 
 [Change log](doc-1.1-M2/changelog.txt), [Breaking Changes](doc-1.1-M2/BreakingChanges-1.1.txt)
 
-##### Release - 1.1 M1 - (June 1st 2007)
+### Release - 1.1 M1 - (June 1st 2007)
 
 Reference ( [HTML](doc-1.1-M1/reference/html/index.html) / [PDF](doc-1.1-M1/reference/pdf/spring-net-reference.pdf) / [HTML Help](doc-1.1-M1/reference/htmlhelp/Spring.NET.chm) )
 
@@ -180,7 +180,7 @@ API (VS.NET 2005 style) [Web](doc-1.1-M1/sdk/2.0/html/webframe.html) / [HTML Hel
 
 [Change log](doc-1.1-M1/changelog.txt), [Breaking Changes](doc-1.1-M1/BreakingChanges-1.1.txt)
 
-##### Release - 1.0.2
+### Release - 1.0.2
 
 Reference ([HTML](doc/reference/html/index.html) / [PDF](doc/reference/pdf/spring-net-reference.pdf) / [HTML Help](doc/reference/htmlhelp/htmlhelp.chm))  
 Spring.NET 1.0.2 API (VS.NET 2003 style) [Web](doc/sdk/1.1/html/webframe.html) / [HTML Help](doc/sdk/1.1/htmlhelp/Spring.NET.chm)  
@@ -190,7 +190,7 @@ Books
 
 [Applying Domain-Driven Design and Patterns: With Examples in C# and .NET](http://www.awprofessional.com/title/0321268202) by Jimmy Nilsson contains sections on Inversion of Control, Depenency Injection and Aspect-Oriented Programming that describe and use Spring.NET. Thanks to Erik Dornenburg and Aleks Seovic (Spring.NET co-lead) for authoring these sections.
 
-# Presentations, Videos, Interviews.
+## Presentations, Videos, Interviews.
 
 Thomas Haug, Senior Consultant and Architect at [Mathema Software GmbH](http://www.mathema.de/), had made an extensive [presentation](presentations/SpringNet-ThomasHaug-2008.pdf) to Spring.NET providing a broad overview of the framework as well as a deeper dive into dependency injection, NHibernate integration and declarative transaction management. (In German)  November 2008
 
@@ -218,7 +218,7 @@ Oliver Paulus provides an overview of Spring and Spring.NET in this [presentatio
 
 Aleksander Seovic presented "Building ASP.NET applications with Spring.NET" at VSLive! Orlando on Tuesday October 11th 2005. See the [conference web site](http://www.ftponline.com/conferences/vslive/2005/or/asp-sessions.aspx) for more information.
 
-# Podcasts
+## Podcasts
 
 A collection of podcasts hosted by SkillsMatter from Russ Miles, senior consultant for SpringSource in the UK, on Spring.NET can be found here
 
@@ -240,7 +240,7 @@ Video of Spring.NET presetation by Mark Pollack and Aleks Seovice at the SpringO
 
 July 2006
 
-# Articles
+## Articles
 
 [SearchWinDevelopment.com](http://searchwindevelopment.techtarget.com/) has an article discussing the growing popularity of open-source Java frameworks finding there way into the .NET ecosystem, in particular Spring for .NET. Read the article by Yuval Shavit [here](http://searchwindevelopment.techtarget.com/news/article/0,289142,sid8_gci1340900,00.html). \[2008-12-5\]
 
