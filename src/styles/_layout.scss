@@ -141,7 +141,7 @@ body,
   position: absolute;
   bottom: 0;
   left: 0;
-  transition: background-color .2s;
+  transition: background-color 0.2s;
   .triangle {
     margin: auto;
     top: 50px;
@@ -154,5 +154,11 @@ body,
     border-top: 10px solid transparent;
     border-bottom: 10px solid transparent;
     border-left: 15px solid #fff;
+  }
+}
+
+@media screen and (min-width: 1408px) {
+  .container:not(.is-max-desktop):not(.is-max-widescreen) {
+    max-width: 800px;
   }
 }

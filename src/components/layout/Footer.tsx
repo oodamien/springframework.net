@@ -122,7 +122,7 @@ const Footer = () => {
                     trademarks of their respective owners.
                   </p>
                 </div>
-                <div className="social-links column is-2">
+                <div className="social-links column is-3">
                   <a
                     href="https://www.youtube.com/user/SpringSourceDev"
                     className="button is-black is-rounded"
