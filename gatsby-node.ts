@@ -33,6 +33,7 @@ exports.createPages = ({ actions, graphql }) => {
 
       switch (keyTemplate) {
         case "":
+        case "blog-template":
           // nothing if there is no template define
           break;
         default:
