@@ -87,37 +87,8 @@ const Footer = () => {
                   <p>
                     <img src={logo} alt="Spring" style={{ height: "48px" }} />
                   </p>
-                  <p className="has-text-grey6">
-                    © 2022 VMware, Inc. or its affiliates.{" "}
-                    <a href="https://www.vmware.com/help/legal.html">
-                      Terms of Use
-                    </a>{" "}
-                    •{" "}
-                    <a href="https://www.vmware.com/help/privacy.html">
-                      Privacy
-                    </a>
-                    • <Link to={"/trademarks"}>Trademark Guidelines</Link> •{" "}
-                    <a href="https://www.vmware.com/help/privacy/california-privacy-rights.html">
-                      Your California Privacy Rights
-                    </a>{" "}
-                    • <a>Cookie Settings</a>
-                  </p>
-                  <p className="has-text-grey-light">
-                    Apache®, Apache Tomcat®, Apache Kafka®, Apache Cassandra™,
-                    and Apache Geode™ are trademarks or registered trademarks of
-                    the Apache Software Foundation in the United States and/or
-                    other countries. Java™, Java™ SE, Java™ EE, and OpenJDK™ are
-                    trademarks of Oracle and/or its affiliates. Kubernetes® is a
-                    registered trademark of the Linux Foundation in the United
-                    States and other countries. Linux® is the registered
-                    trademark of Linus Torvalds in the United States and other
-                    countries. Windows® and Microsoft® Azure are registered
-                    trademarks of Microsoft Corporation. “AWS” and “Amazon Web
-                    Services” are trademarks or registered trademarks of
-                    Amazon.com Inc. or its affiliates. All other trademarks and
-                    copyrights are property of their respective owners and are
-                    only mentioned for informative purposes. Other names may be
-                    trademarks of their respective owners.
+                  <p className="has-text-dark">
+                    © 2022 VMware, Inc. or its affiliates.
                   </p>
                 </div>
                 <div className="social-links column is-3">

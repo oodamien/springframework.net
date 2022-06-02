@@ -28,6 +28,11 @@ const HomepageTemplate = (props: Props) => {
       }}
       className="home"
     >
+      <div className="default-banner">
+        <div className="extra">
+          <img src={`/img/extra-1.svg`} />
+        </div>
+      </div>
       <div className="container my-6">
         <HTMLContent
           content={props.data.page.html}

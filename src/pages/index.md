@@ -14,10 +14,10 @@ keywords:
   - Open source
 ---
 
-Welcome to the home of Spring.NET.
+# Welcome to the home of Spring.NET
 
-Spring.NET is an open source application framework that makes building enterprise .NET applications easier.
+**Spring.NET** is an **open source application framework** that makes building enterprise .NET applications easier.
 
-Providing components based on proven design patterns that can be integrated into all tiers of your application architecture, Spring helps increase development productivity and improve application quality and performance.
+Providing components based on proven design patterns that can be integrated into all tiers of your application architecture, **Spring.NET** helps increase development productivity and improve application quality and performance.
 
-Please read the overview for additional information.
+Please [read the overview](/overview) for additional information.

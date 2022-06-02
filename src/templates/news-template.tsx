@@ -36,13 +36,17 @@ interface PostProps {
 
 const Post = ({ title, content, publish }: PostProps) => {
   return (
-    <article>
-      <h1 className="py-6">{title}</h1>
-      <HTMLContent
-        content={content}
-        className={"markdown content"}
-      ></HTMLContent>
-    </article>
+    <>
+      <article>
+        <h1 className="is-size-3">{title}</h1>
+        <p className="has-text-weight-bold pb-2">{publish}</p>
+        <HTMLContent
+          content={content}
+          className={"markdown content"}
+        ></HTMLContent>
+      </article>
+      <hr />
+    </>
   );
 };
 
